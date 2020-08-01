@@ -9,3 +9,6 @@ This quiz has ten questions. The user's score is based on the percentage of ques
 
 Unfortunately I didn't have enough time to include a timer or saved score system. I was halfway finished with these features before I ran out of time.
 
+    __Project sample:__
+
+![sample](sample.png)
